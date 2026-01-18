@@ -1,5 +1,5 @@
 .gradle
-claude_reference
+claude_reference/
 build/
 !gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**/build/
